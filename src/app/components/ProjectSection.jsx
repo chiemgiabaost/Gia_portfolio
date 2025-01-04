@@ -20,6 +20,15 @@ const projectsData = [
     gitUrl: "https://github.com/chiemgiabaost/brainfast.github.io",
     previewUrl: "https://brainfast-nty04ri2m-baos-projects-1ed80014.vercel.app/",
   },
+  {
+    id: 3,
+    title: "Ecommerce Dashboard Front-end",
+    description: "Dashboard Project Front-end",
+    image: "/images/projects/dashboard-frontend.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/chiemgiabaost/EcommerceWebsite",
+    previewUrl: "https://ecommerce-website-eight-mauve.vercel.app/",
+  },
   
 ];
 

@@ -18,7 +18,7 @@ const projectsData = [
     image: "/images/projects/brainfast.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/chiemgiabaost/brainfast.github.io",
-    previewUrl: "https://brainfast-nty04ri2m-baos-projects-1ed80014.vercel.app/",
+    previewUrl: "https://brainfast-git-master-baos-projects-1ed80014.vercel.app/",
   },
   {
     id: 3,
